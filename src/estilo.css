@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+}
+form{
+    text-align: center;
+    padding-top: 150px;
+    border-radius: 400px;
+    border: double;
+    background-color: hsl(240,80%,80%);
+    font-weight: bolder;
+    font-size: 100px;
+    -webkit-text-fill-color: purple;
+}
