@@ -9,5 +9,5 @@ form{
     background-color: hsl(240,80%,80%);
     font-weight: bolder;
     font-size: 100px;
-    -webkit-text-fill-color: purple;
+    color: purple;
 }

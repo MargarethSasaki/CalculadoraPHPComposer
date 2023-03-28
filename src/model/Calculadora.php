@@ -2,6 +2,7 @@
 
 namespace APP\model;
 
+
 class Calculadora
 
 {
